@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = ESourcing.Products
-build_property.ProjectDir = C:\Users\karab\Desktop\src\E-SourcingMicroService\ESourcing.Products\
+build_property.ProjectDir = C:\Users\karab\Documents\GitHub\E-SourcingMicroService\ESourcing.Products\

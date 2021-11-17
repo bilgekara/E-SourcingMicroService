@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x3u+2091t40kML2HDOv4iubYTdWt9FlvpMow7rbuOfxB/z4VDsnXTifPb7B7Eo5y/3zE3Q0ltI9kja0aWPBrIg==",
+  "dgSpecHash": "GGxmDmScSKjOfdPn9uRN9+Uv3azwIwITbqP4IVxhPfyc4AW/XVdc+sbZj68rV5ltdBm3VBmMvRo2hrDeVka4oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karab\\Desktop\\src\\E-SourcingMicroService\\ESourcing.Products\\ESourcing.Products.csproj",
+  "projectFilePath": "C:\\Users\\karab\\Documents\\GitHub\\E-SourcingMicroService\\ESourcing.Products\\ESourcing.Products.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karab\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\karab\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

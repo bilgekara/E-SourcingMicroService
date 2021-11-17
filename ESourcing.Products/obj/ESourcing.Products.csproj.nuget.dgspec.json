@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karab\\Desktop\\src\\E-SourcingMicroService\\ESourcing.Products\\ESourcing.Products.csproj": {}
+    "C:\\Users\\karab\\Documents\\GitHub\\E-SourcingMicroService\\ESourcing.Products\\ESourcing.Products.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karab\\Desktop\\src\\E-SourcingMicroService\\ESourcing.Products\\ESourcing.Products.csproj": {
+    "C:\\Users\\karab\\Documents\\GitHub\\E-SourcingMicroService\\ESourcing.Products\\ESourcing.Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karab\\Desktop\\src\\E-SourcingMicroService\\ESourcing.Products\\ESourcing.Products.csproj",
+        "projectUniqueName": "C:\\Users\\karab\\Documents\\GitHub\\E-SourcingMicroService\\ESourcing.Products\\ESourcing.Products.csproj",
         "projectName": "ESourcing.Products",
-        "projectPath": "C:\\Users\\karab\\Desktop\\src\\E-SourcingMicroService\\ESourcing.Products\\ESourcing.Products.csproj",
+        "projectPath": "C:\\Users\\karab\\Documents\\GitHub\\E-SourcingMicroService\\ESourcing.Products\\ESourcing.Products.csproj",
         "packagesPath": "C:\\Users\\karab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karab\\Desktop\\src\\E-SourcingMicroService\\ESourcing.Products\\obj\\",
+        "outputPath": "C:\\Users\\karab\\Documents\\GitHub\\E-SourcingMicroService\\ESourcing.Products\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karab\\AppData\\Roaming\\NuGet\\NuGet.Config",
