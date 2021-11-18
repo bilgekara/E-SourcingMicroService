@@ -64,7 +64,6 @@ C:\Users\karab\Documents\GitHub\E-SourcingMicroService\ESourcing.Products\bin\De
 C:\Users\karab\Documents\GitHub\E-SourcingMicroService\ESourcing.Products\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\karab\Documents\GitHub\E-SourcingMicroService\ESourcing.Products\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\karab\Documents\GitHub\E-SourcingMicroService\ESourcing.Products\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
-C:\Users\karab\Documents\GitHub\E-SourcingMicroService\ESourcing.Products\obj\Debug\net5.0\ESourcing.Products.csproj.AssemblyReference.cache
 C:\Users\karab\Documents\GitHub\E-SourcingMicroService\ESourcing.Products\obj\Debug\net5.0\ESourcing.Products.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\karab\Documents\GitHub\E-SourcingMicroService\ESourcing.Products\obj\Debug\net5.0\ESourcing.Products.AssemblyInfoInputs.cache
 C:\Users\karab\Documents\GitHub\E-SourcingMicroService\ESourcing.Products\obj\Debug\net5.0\ESourcing.Products.AssemblyInfo.cs
