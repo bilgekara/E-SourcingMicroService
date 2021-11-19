@@ -27,7 +27,8 @@ services:
         create_host_path: true
     - type: bind
       source: /ASP.NET/Https
-      target: /root/.aspnet/https/
+      target: /root/.aspnet/https
+      read_only: true
       bind:
         create_host_path: true
   sourcingdb:

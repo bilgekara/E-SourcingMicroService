@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ESourcing.Products.Settings
+namespace Esourcing.Sourcing.Settings
 {
-    public class ProductDatabaseSettings : IProductDatabaseSettings
+    public interface ISourcingDatabaseSettings
     {
         public string ConnectionString { get; set; }
         public string DatabaseName { get; set; }
-        public string CollectionName { get; set; }
     }
 }

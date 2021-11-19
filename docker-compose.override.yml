@@ -22,4 +22,4 @@ services:
       - "8000:80"
     volumes:
       - ${HOME}/.microsoft/usersecrets/:/root/.microsoft/usersecrets
-      - ${HOME}/ASP.NET/Https:/root/.aspnet/https/
+      - ${HOME}/ASP.NET/Https:/root/.aspnet/https:ro
